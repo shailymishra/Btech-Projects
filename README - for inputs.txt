@@ -1,0 +1,1 @@
+Run fcfs.c or rr.c to run FCFS and Round Robin algorithms respectively. Input will be automatically taken by these programs. Output is shown on terminal as well as in separate files named Log_FSFC and Log_RR.
